@@ -1,5 +1,6 @@
 # MST-TSP
-Minimum Spanning Trees for 2-approximation of metric Travelling Salesman Problem
+Minimum Spanning Trees for 2-approximation of metric Travelling Salesman Problem  
+Advanced Algorithms, Spring 2021
 
 ## Goals
 1. Make a working implementation of a 2-approximation algorithm for the TSP using the Minimum Spanning Tree (MST) approach discussed in class. *(We are providing starter code and tests).*
